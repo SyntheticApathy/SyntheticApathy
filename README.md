@@ -1,6 +1,2 @@
 - 👋 Hi, I’m Dawid Swietlinski
-
-<!---
-SyntheticApathy/SyntheticApathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm a first year student in Saxion University of Applied Sciences in Enschede, Netherlands.
