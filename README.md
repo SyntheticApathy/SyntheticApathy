@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Dawid Swietlinski
-- I'm a first year Applied Computer Science student in Saxion University of Applied Sciences in Enschede, Netherlands.
+- I'm a first year AI student at Vrije University in Amsterdam.
