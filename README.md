@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Dawid Swietlinski
-- I'm a first year AI student at Vrije University in Amsterdam.
+- I'm a second year AI student at Vrije University in Amsterdam.
