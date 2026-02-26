@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Dawid Swietlinski
+- 👋 Hi, I’m Dawid
 - I'm a third year AI student at Vrije University in Amsterdam.
